@@ -1,4 +1,4 @@
-# NCD Paper Generator: README
+# NCD Paper IEEE Consumer Electronics Magazine
 
 ## Overview
 This repository contains code and data resources for generating and analyzing question-answer pairs related to Non-Communicable Diseases (NCDs). The project supports research in automated question generation, categorization, and response synthesis for a wide range of NCDs, with a focus on diversity, real-world scenarios, and clinical relevance.
