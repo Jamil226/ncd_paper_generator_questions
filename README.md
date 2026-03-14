@@ -21,7 +21,7 @@ This repository contains code and data resources for generating and analyzing qu
 1. **Requirements**: Python 3.7+
 2. **Run Data Generation**:
    - For 50k dataset: `python ncd_generator_50k.py`
-   - For 500k dataset: `python ncd_generator_500k.py`
+   - For 500k dataset: `python ncd_generator_200k.py`
 3. **Data Files**: Generated Q&A pairs are saved in the `question_bank/` directory as JSON files.
 
 ## Example Q&A Format
